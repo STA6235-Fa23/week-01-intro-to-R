@@ -1,0 +1,69 @@
+---
+title: "STA6235 Week 1"
+author: "Your Name Here"
+format: 
+  html:
+    self-contained: true
+execute:
+  echo: true
+  warning: false
+  message: false
+  error: true
+editor: source
+---
+
+## Tuesday, August 22
+
+**1. Do you have a nickname that you prefer over what is listed on the syllabus?**
+
+**2. What do you hope to take away from this course? How will this course help you in your future career?**
+
+**3. Have you used R before? If you have, please describe your level of experience.**
+
+**4. Go back and make each of your responses above your favorite color(s).**
+
+## Thursday, August 24
+
+**5. Pull in the [Palmer Penguin dataset](https://allisonhorst.github.io/palmerpenguins/).**
+
+```{r}
+
+```
+
+**6. Find the mean and standard deviation for the penguins' body mass, split by species. Create a table to display this information with column headers "mean" and "standard deviation" and rows defined by the species. Remember to use the [tablesgenerator.com](http://www.tablesgenerator.com) website to help you with creating a markdown table.**
+
+```{r}
+
+```
+
+**7. Create a plot of the means using data from Question 6: use `geom_point()` for the estimated means and `geom_errorbar()` for the standard deviations. (Hint: look at [this resource](https://r-graphics.org/recipe-annotate-error-bar)!)**
+
+```{r}
+
+```
+
+**8. Create a frequency table of the species (rows) by the sex of the penguin (columns). Present the count and column percent, rounded to two decimal places (and display trailing 0's). Remember to use the [tablesgenerator.com](http://www.tablesgenerator.com) website to help you with creating a markdown table.**
+
+```{r}
+
+```
+
+**9. Create a side-by-side bar chart of the species by sex using data from Question 8: use `geom_bar()` to get started. Color the bar graphs according to sex. Bonus: include the count on the graph, above each bar.**
+
+```{r}
+
+```
+
+## Weekend Reading
+
+Please read Hadley Wickham's paper, [Tidy Data](https://vita.had.co.nz/papers/tidy-data.pdf).
+
+**10. Explain tidy data to a high school student taking AP Statistics.**
+
+
+
+
+
+
+
+

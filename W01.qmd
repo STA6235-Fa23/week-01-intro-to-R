@@ -26,7 +26,7 @@ editor: source
 
 Please read Hadley Wickham's paper, [Tidy Data](https://vita.had.co.nz/papers/tidy-data.pdf).
 
-**10. Explain tidy data to a high school student taking AP Statistics.**
+**5. Explain tidy data to a high school student taking AP Statistics.**
 
 
 
